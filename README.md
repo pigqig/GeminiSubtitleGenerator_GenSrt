@@ -20,8 +20,8 @@ https://aistudio.google.com/api-keys
 Gemini API Key 申請說明：
 https://ai.google.dev/gemini-api/docs/api-key?hl=zh-tw
 
-使用 NetFramework 8，下載位址：
-https://dotnet.microsoft.com/zh-tw/download/dotnet/8.0
+使用 NetFramework 6，下載位址：
+https://dotnet.microsoft.com/zh-tw/download/dotnet/thank-you/sdk-6.0.428-windows-x64-installer
 
 
 ---
