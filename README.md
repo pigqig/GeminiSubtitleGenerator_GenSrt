@@ -36,6 +36,22 @@ https://dotnet.microsoft.com/zh-tw/download/dotnet/thank-you/sdk-6.0.428-windows
 
 ---
 
+## 💎 進階版功能 (Advanced Version)
+
+本專案另提供付費進階版本，針對有專業製作需求的用戶提供以下升級：
+
+### 1. 🌐 輸出可自訂語言 (Multi-Language Output)
+打破語言隔閡，進階版支援在生成字幕的同時進行翻譯。您可以指定輸出的目標語言（例如：將中文語音直接生成為英文或日文字幕），大幅降低內容國際化的門檻。
+
+### 2. 🎬 字幕直接內嵌 (Direct Subtitle Embedding)
+支援「硬字幕 (Hardsub)」壓制功能。系統能將 AI 生成的字幕直接燒錄至影片畫面中，產出已帶有字幕的影片檔。免去觀眾需額外掛載字幕檔的麻煩，非常適合上傳至 Instagram、TikTok 或 YouTube Shorts 等社群平台。
+
+### 3. 🚀 更強大的轉碼核心 (Enhanced Transcoding Core)
+採用企業級影音編碼引擎，不僅支援更多特殊的影片編碼格式，更能大幅提升處理 4K 高畫質或高流量影片時的轉檔效率與穩定性。
+
+> **💡 如有進階版相關需求，請直接聯繫 [酷意 AI 平台](http://ourcoolidea.com)。**
+
+
 ## 🛠️ 環境設定 (Configuration)
 
 在開始使用前，請於軟體主介面完成以下基礎參數設定：
