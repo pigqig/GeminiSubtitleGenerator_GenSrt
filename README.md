@@ -14,6 +14,13 @@
 **詳細介面可以查看：
 **產品說明書.pdf**
 
+Gemini API 申請位置，需先申請 API Key 才能使用本軟體：
+https://aistudio.google.com/api-keys
+
+Gemini API Key 申請說明：
+https://ai.google.dev/gemini-api/docs/api-key?hl=zh-tw
+
+
 ---
 
 ## ✨ 核心特色 (Features)
