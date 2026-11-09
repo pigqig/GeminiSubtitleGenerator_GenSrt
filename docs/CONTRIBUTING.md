@@ -1,6 +1,6 @@
 # 酷意 AI 字幕產生器 (CoolIdea AI Subtitle Generator)
 
-**Studio v6.0 ** | Author: Joseph
+**Studio v6.0 ** | Author: Lee
 **官網**：[酷意 AI 平台](http://ourcoolidea.com)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -69,7 +69,7 @@ Distributed under the MIT License. See below for more information.
 
 **MIT License**
 
-Copyright (c) 2025 Joseph (CoolIdea)
+Copyright (c) 2025 Lee (CoolIdea)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
