@@ -287,7 +287,7 @@ namespace GeminiSubtitleGenerator
         }
         
         private void ApplyDarkTheme() { menuStrip1.Renderer = new DarkMenuRenderer(); menuStrip1.BackColor = Color.FromArgb(30, 30, 30); menuStrip1.ForeColor = Color.White; }
-        private void menuAbout_Click(object sender, EventArgs e) { MessageBox.Show("作者： Joseph\n信箱： pigqig@gmail.com\n網站名稱： 酷意 AI 平台", "關於"); }
+        private void menuAbout_Click(object sender, EventArgs e) { MessageBox.Show("作者： Lee\n信箱： pigqig@gmail.com\n網站名稱： 酷意 AI 平台", "關於"); }
         private void btnClear_Click(object sender, EventArgs e) { lstFiles.Items.Clear(); lblStatus.Text = "清單已清除"; }
         private void btnPause_Click(object sender, EventArgs e) { _isPaused = !_isPaused; btnPause.Text = _isPaused ? "▶ 繼續" : "⏸ 暫停"; btnPause.BackColor = _isPaused ? Color.FromArgb(40, 167, 69) : Color.FromArgb(255, 193, 7); if (_isPaused) Log(">>> 流程已暫停", Color.Yellow); else Log(">>> 流程繼續執行", Color.LightGreen); }
         private void btnCancel_Click(object sender, EventArgs e) { if (_cts != null) { _cts.Cancel(); Log(">>> 正在取消...", Color.Red); btnCancel.Enabled = false; } }
