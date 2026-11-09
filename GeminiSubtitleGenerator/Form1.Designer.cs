@@ -125,7 +125,7 @@ namespace GeminiSubtitleGenerator
             lblSubtitle.Name = "lblSubtitle";
             lblSubtitle.Size = new Size(86, 15);
             lblSubtitle.TabIndex = 1;
-            lblSubtitle.Text = "Author: Joseph";
+            lblSubtitle.Text = "Author: Lee";
             // 
             // panelTopControls
             // 
